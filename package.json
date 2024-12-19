@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@payloadcms/next": "^3.9.0",
+    "@payloadcms/richtext-lexical": "^3.9.0",
+    "graphql": "^16.10.0",
     "next": "^14.2.20",
+    "payload": "^3.9.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "sharp": "^0.33.5"
   },
   "devDependencies": {
     "@types/node": "20.17.10",
